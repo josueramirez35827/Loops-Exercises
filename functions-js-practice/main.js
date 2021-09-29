@@ -22,6 +22,8 @@ const students = [
   "Zipporah",
 ];
 
+
+
 //Exercise #2
 //Write a function named calculateDogAge that:
 //takes one argument: your puppy's age
